@@ -1,0 +1,1 @@
+export * from './Navbar'; // exporta todo lo que se exporta en NavBar
